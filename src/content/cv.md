@@ -2,6 +2,10 @@
 name: "Fatih Arda Zengin"
 title: "Graduate Researcher — Battery Health & Explainable AI"
 experience:
+  - role: "Post Graduate Researcher (Intern)"
+    institution: "The University of Edinburgh"
+    period: "06/2026 - 08/2026"
+    description: "Research internship at APRIL AI Hub, School of Engineering, The University of Edinburgh. Worked on AI-assisted design exploration for GaN p-FET devices through literature analysis, simulation data analysis, and machine learning techniques."
   - role: "PLM Engineer"
     institution: "TAAC Aerospace"
     period: "09/2024 - 09/2024"

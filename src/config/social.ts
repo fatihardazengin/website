@@ -15,7 +15,7 @@ export const SOCIALS: SocialLink[] = [
     },
     {
         name: "LinkedIn",
-        href: "https://www.linkedin.com/in/fatihaz",
+        href: "https://www.linkedin.com/in/fatihardazengin",
         linkTitle: `Fatih Arda Zengin on LinkedIn`,
         isActive: true,
     },
