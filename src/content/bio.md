@@ -1,28 +1,20 @@
 ---
-name: "Claude Shannon"
-avatar: "shannon.jpg"
-shortBio: "Mathematician and electrical engineer known as the 'Father of Information Theory'. Pioneer in digital computing and cryptography."
-institution: "MIT, Cambridge MA"
+name: "Fatih Arda Zengin"
+avatar: "avatar.jpg"
+shortBio: "Graduate researcher working on lithium-ion battery Remaining Useful Life (RUL) prediction using deep learning and explainable AI."
+institution: "Sabancı University, Istanbul"
 ---
 
-I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.
-
-## My Life
-
-Born in Petoskey, Michigan on April 30, 1916, I showed an early aptitude for engineering and mathematics. After studying at the University of Michigan, I completed my PhD at MIT where I famously applied Boolean algebra to electrical circuits. My master's thesis on relay switching circuits is considered one of the most important master's theses ever written.
-
-During World War, I worked at Bell Labs on fire control systems and cryptography, which led to my seminal work in information theory.
+I am a graduate researcher at **Sabancı University**, focusing on lithium-ion battery **Remaining Useful Life (RUL)** prediction using deep learning and explainable AI. My work sits at the intersection of machine learning, energy systems, and manufacturing engineering.
 
 ## Current Work
 
-I continue to work on various problems at the intersection of mathematics, engineering, and computer science. My interests include artificial intelligence, pattern recognition, game theory, and the fundamental limits of computation.
+I'm developing RNN/GRU/LSTM-based deep learning models for battery state-of-health (SOH) and RUL prediction, advised by Korkut Kaan Tokgöz, Ph.D. This research is funded by the **TÜBİTAK 1005 National New Ideas and Products Program (2025–2027)**, building a real-time battery degradation data acquisition and prediction system.
 
-I also enjoy juggling, unicycling, and playing the clarinet - I even built a juggling machine!
+## Background
+
+I hold a B.Sc. in Industrial Engineering from Sabancı University, where I focused on data science, machine learning, statistics, and optimization. Before returning for my M.S. in Manufacturing Engineering, I worked across data science and cloud engineering roles — including explainable AI modeling at Koç Finance and cloud automation at Limoncloud.
 
 ## Research Interests
 
-My research focus includes: **Information Theory**, **Cryptography**, **Digital Computing**, **Artificial Intelligence**, **Game Theory**, and **Switching Circuits**.
-
----
-
-*"I am a mathematician. I am interested in the fundamental limits on the rate at which information can be transmitted."*
+My research interests include: **Battery Health Prediction**, **Explainable AI**, **Bayesian Optimization**, **Time-Series Modeling**, **MLOps**, and **Energy Systems**.

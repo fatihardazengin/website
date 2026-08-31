@@ -1,11 +1,11 @@
 import type { SiteConfig, ThemeConfig, SettingsConfig, UmamiAnalyticsConfig, AnalyticsConfig } from "../types";
 
 export const SITE: SiteConfig = {
-    website: "https://shannon.github.io/academic-portfolio-astro/",
-    author: "Claude Shannon",
-    desc: "Personal academic portfolio and blog of Claude Shannon, Father of Information Theory.",
-    title: "Claude Shannon",
-    ogImage: "shannon.webp",
+    website: "https://fatihardazengin.com",
+    author: "Fatih Arda Zengin",
+    desc: "Personal academic portfolio of Fatih Arda Zengin — graduate researcher in battery health prediction, machine learning, and explainable AI.",
+    title: "Fatih Arda Zengin",
+    ogImage: "avatar.jpg",
     postPerPage: 5,
     favicon: "/favicon.svg",
     lang: "en",
