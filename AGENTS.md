@@ -4,7 +4,7 @@
 - Personal academic/professional portfolio for **Fatih Arda Zengin** (graduate researcher — battery Remaining Useful Life prediction & explainable AI, Sabancı University). Built from the `academic-portfolio-astro` template, now de-templated: `src/content/` holds real content, not demo data. If you see "Claude Shannon" anywhere, it's leftover template placeholder content that hasn't been migrated yet — flag it, don't assume it's intentional.
 - **Deployment:** Cloudflare Workers, static assets only (`wrangler.jsonc`, `assets.directory: ./dist`) — no Cloudflare/SSR adapter needed or wanted, this is a plain `output: "static"` Astro build. Custom domain `fatihardazengin.com` is set as `site` in `astro.config.mjs` (no `base` path — deploys at domain root). The GitHub Pages Actions workflow was deliberately removed; do not re-add `.github/workflows/*pages*` — it conflicts with the Cloudflare deploy and with GitHub's own automatic Pages build check.
 - **`blog` and `talks` sections are intentionally disabled** (`PAGES.blog.isActive = false`, `PAGES.talks.isActive = false` in `src/config/pages.ts`). Their content (`src/content/posts/*`, `src/content/talks/*`) is still unmigrated template demo content — don't re-enable until it's replaced with real posts/talks; ask the user first if a task seems to require it.
-- `src/content/teaching/*` is also still template demo content and not yet disabled — flag before publishing anything that surfaces it.
+- `src/content/teaching/*` now holds real content (IE 303 - Decision Economics TA-ship at Sabancı University, Spring 2024–present).
 
 ## Commands
 - `npm run dev` - Start dev server
