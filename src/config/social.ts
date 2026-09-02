@@ -19,6 +19,12 @@ export const SOCIALS: SocialLink[] = [
         linkTitle: `Fatih Arda Zengin on LinkedIn`,
         isActive: true,
     },
+    {
+        name: "Kaggle",
+        href: "https://www.kaggle.com/fatihardazengin",
+        linkTitle: `Fatih Arda Zengin on Kaggle`,
+        isActive: true,
+    },
 ];
 
 export const SOCIAL_ICONS: Record<string, string> = {
@@ -28,4 +34,5 @@ export const SOCIAL_ICONS: Record<string, string> = {
     "Google Scholar": "GoogleScholar",
     ORCID: "ORCID",
     RSS: "RSS",
+    Kaggle: "Kaggle",
 };
